@@ -6,7 +6,7 @@ CREATE TABLE `wild_db_quest`.`wizard`
     `birthday`    DATE         NOT NULL,
     `birth_place` VARCHAR(255) NULL,
     `biography`   TEXT         NULL,
-    `is_muggle`   BOOL      NOT NULL,
+    `is_muggle`   BOOL         NOT NULL,
     PRIMARY KEY (`id`)
 );
 
