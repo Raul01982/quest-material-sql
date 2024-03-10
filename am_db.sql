@@ -19,3 +19,5 @@ CREATE TABLE `wild_db_quest`.`school`
     PRIMARY KEY (`id`)
 );
 
+SHOW TABLES wild_db_quest
+;
